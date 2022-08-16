@@ -1,35 +1,23 @@
 - inverted: 
-  img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  img: chapter1.png
+  name: Marcus Gorileeus
+  info: "Although he eventually becomes the emperor of Rome, he has a long way to go as an accident-prone 7-year-old gorilla. He is a little spoiled thanks to his upbringing as the son of a senator, and he is extremely gullible. A little bit on the lazy side, and not particularly athletic, Marcus does have one thing going for him. His interest in understanding the world around him and finding the truth."
   link: /about
 
 - inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
+  img: pandus.png
+  name: Pandus
+  info: "Pandus is Marcus' household servant (slave). She was born free but suffered from dyslexia. She chose to become a slave because it would give her access to more intellectual work. She is a big lethargic Panda who is ambivalent about most things unrelated to going to the bathroom. "
   link: /agenda
 
 - inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
+  img: dogneetus.png
+  name: Dogneetus
+  info: "The little chihuahua with a great presence, Dogneetus is the resident philosopher and painting master. She is famous for her frescoes and clearly brilliant. She is mindful of the world around her and does her best to be a positive force in the world."
   link: /team
 
 - inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
+  img: crocodus.png
+  name: Crocodus
+  info: "Crocodus is the extremely annoying spoiled daughter of an ambitious senator. She treats servants terribly, and only pays attention to animals she thinks are powerful or related to other powerful animals. Crocodus has trouble reading, and her father is infuriated by this and lets her know how much of a disappointment she is."
   link: /venue
-
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
-
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet

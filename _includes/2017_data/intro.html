@@ -1,37 +1,25 @@
 <!-- Services Section -->
     <section id="intro">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Title</h2>
-                </div>
-            </div>
             <div class="row container">
-                <p>Topic; <a href="/2016">Link to 2016</a> 
-                </p>
+                <div class="col-xs-12">
+                    <div id="introMD" style="max-width: 600px; margin: auto;">
 
-                <style>
-                .video {
-                position:relative;
-                padding-bottom: 56.25%;
-                height:0;
-                overflow:hidden;
-                align: middle;
-                }
-                .video iframe, .video object, .video embed {
-                position: absolute;
-                margin: auto;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                width: 100%;
-                height: 100%;
-                }
-                </style>
+                    </div>
+                    <script>
+                        document.getElementById('introMD').innerHTML =
+                          marked.parse(
+`OUCH! Marcus "accident-prone" Gorileeus was about to relearn the definition of pain. His bedroom had been given to the mysterious Dogneetus. His father was kicking him out of the family. And his new classmate Crocodus was succeeding wonderfully at being the most annoying crocodile the world had ever known.
 
-                <div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook%2Fvideos%2F10153231379946729%2F&width=500&show_text=false&appId=269289086810957&height=280" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div><br>
+Strange how these three things, coupled with the great powers of Stoicism, would forever change the world.
 
-                 <center><a href="#" class="page-scroll btn btn-xl">Registration Closed</a></center>
+How you ask?
+
+1. Marcus Gorileeus was born and lived almost 2000 years ago in Rome.
+2. Rome was the most powerful civilization in the world.
+3. Marcus would grow up to be the emperor and ruler of Rome.`);
+                    </script>
+                </div>
             </div>
         </div>
     </section>

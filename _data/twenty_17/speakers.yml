@@ -1,26 +1,27 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Chapter 1
+  name: Chapter 1  
+  img: chapter1.png
+  thumbnail: chapter1.png
+  alt: Picture of Marcus Gorileeus screaming
   topic: Topic
   description: More Info
+  path: first21.pdf
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Stoicism
+  name: Stoicism Demo
+  img: stoic.png
+  thumbnail: stoic.png
+  alt: Marcus looking at a painting
   topic: Topic
   description: More Info
+  path: first124.pdf
 
-- title: Name
-  name: Name-3
+- title: Chapters 1-3
+  name: Chapters 1-3
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: chapter1-3.png
+  thumbnail: chapter1-3.png
+  alt: Picture of Terry holding two bananas half peeled
   topic: Topic
   description: More Info
+  path: first47.pdf
